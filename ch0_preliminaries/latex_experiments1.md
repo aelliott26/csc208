@@ -28,7 +28,7 @@
 | `$a \ll b$`                    | $a \ll b$                    | Much less than                |
 | `$\pi = 3.14159...$`           | $\pi = 3.14159...$           | Pi constant                   |
 | `$\angle$`                     | $\angle$                     | Angle symbol                  |
-| `$30\degree45\rq30\rq\rq$`     | $30\degree45\rq30\rq\rq$     | Degrees, minutes, seconds     |
+| `$30\degree$`                  | $30\degree$                  | Degrees     |
 | `$P(A \cup B)$`                | $P(A \cup B)$                | Probability of union          |
 | `$P(A|B)$`                     | $P(A|B)$                     | Probability of conditional    |
 | `$\tilde{x}$`                  | $\tilde{x}$                  | Tilde notation                |
@@ -48,7 +48,6 @@
 ## Functions
 | Markdown Code                                                        | Rendered Output                                                    | Description              |
 |----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------|
-| `$|-5|=5$`                                                           | $|-5|=5$                                                           | Absolute value           |
 | `$f(x)=2x^2$`                                                        | $f(x)=2x^2$                                                        | Function definition      |
 | `$\Delta x = x_1 - x_0$`                                             | $\Delta x = x_1 - x_0$                                             | Change in x (Delta)      |
 | `$\displaystyle\prod_{x=2}^4 x^2 = 2^2 \times 3^2 \times 4^2 = 576$` | $\displaystyle\prod_{x=2}^4 x^2 = 2^2 \times 3^2 \times 4^2 = 576$ | Product formula          |
