@@ -3,15 +3,15 @@
 - It is hard to put a definition on discrete mathematics or mathematics in general
 - If a set of numbers is all real numbers 0 and greater it is not discrete
 - Discrete math can ask the range of a function but the set would not be an interval
-- A set is descrete if the elements are seperate or if each input is an individual.
-- There are descrete mathematical objects other than sets.
-- Some types of objects that could be descrete mathematical objects are ***sets, sequences, functions, relations, graph*** (not a normal graph but a graph that represents elements of a set) ***,and many more***
+- A set is discrete if the elements are seperate or if each input is an individual.
+- There are discrete mathematical objects other than sets.
+- Some types of objects that could be discrete mathematical objects are ***sets, sequences, functions, relations, graph*** (not a normal graph but a graph that represents elements of a set) ***,and many more***
 - **4 main topics are:**
     - Combinatorics
     - Sequences
     - Symbolic Logic
     - Graph Theory
-- The tools in descrete mathematics are called *discrete structures*.
+- The tools in deicrete mathematics are called *discrete structures*.
 
 > Sets
 >> A set is an unordered collection of elements
@@ -60,10 +60,12 @@
 
 
 ### What is discrete math?
-
+Discrete math is the study of mathematical structures that are not continuous but seperateble.
 
 ### What are the four main topics that Professor Levin says will be presented in the book?
-
-
+- Combinatorics
+- Sequences
+- Symbolic Logic
+- Graph Theory
 ### What are discrete structures? Which specific examples are listed in the chapter?
-
+Discrete structures are the mathematical objects that we use to represent parts of the problems we are solving. Examples of these are sets, sequences, functions, relations, graphs, multisets, finite geometries, designs, linked lists, red-black trees, groups, rings, metroids, and POSets
