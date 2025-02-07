@@ -1,4 +1,4 @@
-### Summary of Chapter 0
+# Summary of Chapter 0
 ## Key Definitions
 - It is hard to put a definition on discrete mathematics or mathematics in general
 - If a set of numbers is all real numbers 0 and greater it is not discrete
@@ -59,11 +59,11 @@
 ## Response Questions
 
 
-# What is discrete math?
+### What is discrete math?
 
 
-# What are the four main topics that Professor Levin says will be presented in the book?
+### What are the four main topics that Professor Levin says will be presented in the book?
 
 
-# What are discrete structures? Which specific examples are listed in the chapter?
+### What are discrete structures? Which specific examples are listed in the chapter?
 
