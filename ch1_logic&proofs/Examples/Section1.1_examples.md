@@ -10,7 +10,7 @@ $P \land Q$
 **Answer:**  
 $P \rightarrow \neg Q$
 
-### (c) Translate "$P \lor Q$" into English.  
+### (c) Translate " $P \lor Q$ " into English.  
 **Answer:**  
 "Jack or Jill (or both) passed math."
 
