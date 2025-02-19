@@ -8,7 +8,7 @@
 - A statement has to be either true or false or it is not a statement
 - A predicate can be made into a (true or false) statement by evaluating it at some constants
 - We don't have to be presice when we assume that sentences containing predicates with free variables are intended as statements
-![Image of symbols](./Images/Symbols.png)
+![Image of symbols](../Images/Symbols.png)
 
 ## Vocab
 
