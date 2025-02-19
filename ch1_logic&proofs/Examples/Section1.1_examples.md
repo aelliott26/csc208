@@ -14,7 +14,7 @@ $P \rightarrow \neg Q$
 **Answer:**  
 "Jack or Jill (or both) passed math."
 
-### (d) Translate "$\neg (P \land Q) \rightarrow Q$" into English.  
+### (d) Translate " $\neg (P \land Q) \rightarrow Q$ " into English.  
 **Answer:**  
 "If Jack and Jill did not both pass math, then Jill passed math."
 
@@ -42,8 +42,8 @@ $\forall x (E(x) \rightarrow O(x+1))$
 
 ### (c) There is a prime number that is even.  
 **Answer:**  
-$\exists x (Prime(x) \land E(x))$  
-*(Example: $x = 2$ is an even prime.)*
+$\exists x (Prime(x) \land E(x))$
+(Example: $x = 2$ is an even prime.)
 
 ### (d) Between any two numbers, there is a third number.  
 **Answer:**  
