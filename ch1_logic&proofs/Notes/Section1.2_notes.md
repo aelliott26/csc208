@@ -12,12 +12,8 @@
 - When the implication and converse are true we say that P and Q are equivalent. 
 
 ## Vocab
-- **Implication**: It is a molecular statement of the form 
-$P \rightarrow Q$
-- **Conditional**: Also known as an Implication 
-$P \rightarrow Q$
+- **Implication**: It is a molecular statement of the form $P \rightarrow Q$
+- **Conditional**: Also known as an Implication $P \rightarrow Q$
 - **Converse**: Regarding a certain implication, it is the opposite. Using the above defined implication it would be $Q \rightarrow P$.
-- **Contrapositive**: Regarding a certain implication, it is the opposite and the negation. Using the above defined implication it would be 
-$\neg Q \rightarrow \neg P$
-- **Inverse**: Regarding a certain implication, it takes the negation . Using the above defined implication it would be 
-$\neg P \rightarrow \neg Q$
+- **Contrapositive**: Regarding a certain implication, it is the opposite and the negation. Using the above defined implication it would be $\neg Q \rightarrow \neg P$
+- **Inverse**: Regarding a certain implication, it takes the negation . Using the above defined implication it would be  $\neg P \rightarrow \neg Q$
