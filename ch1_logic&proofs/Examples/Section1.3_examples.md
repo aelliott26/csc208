@@ -3,11 +3,11 @@
 ## Reading Questions
 
 ### 1. Checking Logical Equivalence with a Truth Table
-To determine if two statements \( P \) and \( Q \) are logically equivalent:
+To determine if two statements P and Q are logically equivalent:
 1. Construct a truth table*listing all possible truth values.
-2. Compute the truth values for both \( P \) and \( Q \).
+2. Compute the truth values for both P and Q .
 3. Compare the final columns of the truth table:
-   - If the columns are identical, \( P \equiv Q \).
+   - If the columns are identical, $P \equiv Q$.
    - If they differ in any row, they are *not* equivalent.
 
 ### 2. Checking Validity of a Deduction Rule
@@ -23,18 +23,18 @@ To determine whether a deduction rule is valid:
 
 ## Practice Problems
 
-###  1. Truth Table for \( (P \land Q) \rightarrow (P \lor Q) \)
+###  1. Truth Table for  $(P \land Q) \rightarrow (P \lor Q)$
 
-| \( P \) | \( Q \) | \( P \land Q \) | \( P \lor Q \) | \( (P \land Q) \rightarrow (P \lor Q) \) |
+| P | Q| $P \land Q$ | $P \lor Q$ | $(P \land Q) \rightarrow (P \lor Q)$ |
 |---|---|---|---|---|
 | T | T | T | T | T |
 | T | F | F | T | T |
 | F | T | F | T | T |
 | F | F | F | F | T |
 
-###  2. Truth Table for \( \neg Q \lor (Q \rightarrow P) \)
+###  2. Truth Table for $\neg Q \lor (Q \rightarrow P)$
 
-| \( P \) | \( Q \) | \( \neg Q \) | \( Q \rightarrow P \) | \( \neg Q \lor (Q \rightarrow P) \) |
+| P| Q | $\neg Q$ | $Q \rightarrow P$ | $\neg Q \lor (Q \rightarrow P)$ |
 |---|---|---|---|---|
 | T | T | F | T | T |
 | T | F | T | T | T |
@@ -42,9 +42,9 @@ To determine whether a deduction rule is valid:
 | F | F | T | T | T |
 
 
-### 3. Checking Logical Equivalence of \( P \rightarrow (Q \lor R) \) and \( (P \rightarrow Q) \lor (P \rightarrow R) \)
+### 3. Checking Logical Equivalence of $P \rightarrow (Q \lor R)$ and $(P \rightarrow Q) \lor (P \rightarrow R)$
 
-| \( P \) | \( Q \) | \( R \) | \( P \rightarrow (Q \lor R) \) | \( (P \rightarrow Q) \lor (P \rightarrow R) \) |
+|  P | Q | $R$ | $P \rightarrow (Q \lor R)$ |  $(P \rightarrow Q) \lor (P \rightarrow R)$|
 |---|---|---|---|---|
 | T | T | T | T | T |
 | T | T | F | T | T |
