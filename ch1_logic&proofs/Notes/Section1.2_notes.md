@@ -1,4 +1,4 @@
-# Chapter 1.2 Notes on Implication
+# Section 1.2 Notes on Implication
 
 ## Summary
 - The most important type of statement in mathematics is the implication.
