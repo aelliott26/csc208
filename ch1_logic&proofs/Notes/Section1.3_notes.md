@@ -14,7 +14,6 @@
 - We can pass the negation symbol over a quantifier, but that causes the quantifier to switch type.
 ![Image of Quantifiers](../Images/Quantifiers.png)
 - Predicate logic extends propositional logic
-- 
 
 ## Vocab
 - **Truth Tables**: A chart that show the different truth values for a statement.
